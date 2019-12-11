@@ -2,10 +2,7 @@
     "name": "whixenna/yii2-action-viewimage",
     "version": "1.0",
     "description": "yii2 Action for view resized and cropped image",
-    "keywords": [
-        "yii2",
-        "imagick"
-    ],
+    "keywords": ["yii2", "imagick"],
     "type": "yii2-action",
     "license": "MIT",
     "authors": [
